@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(2.23035, 0, 0, 1.95177, -180.854, -161.168)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="191" x="177" stroke-width="0" stroke="#000000" fill="#000000">JARG</text>
+  <rect id="svg_2" height="7" width="197" y="221" x="105" stroke-width="2" stroke="#e01d1d" fill="#007fff"/>
+  <polygon stroke-width="2" stroke="#e01d1d" points="141.44591522216797,191 130.08206939697266,206.6409912109375 111.69497680664062,200.6666717529297 111.69497680664062,181.3333282470703 130.08206939697266,175.3590087890625 141.44591522216797,191 " strokeWidth="2" strokecolor="#e01d1d" fill="#007fff" edge="19.333333" orient="x" sides="5" shape="regularPoly" id="svg_4" cy="169" cx="86"/>
+  <polygon stroke-width="2" stroke="#e01d1d" points="122.23171997070312,167 115.85275268554688,175.77989196777344 105.5313720703125,172.42626953125 105.5313720703125,161.57373046875 115.85275268554688,158.22010803222656 122.23171997070312,167 " strokeWidth="2" strokecolor="#e01d1d" fill="#007fff" edge="10.852547" orient="x" sides="5" shape="regularPoly" id="svg_5" cy="165" cx="82"/>
+ </g>
+</svg>
